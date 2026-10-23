@@ -38,6 +38,25 @@ The project demonstrates an agricultural research workflow involving data valida
 - Annual rainfall and NDVI showed a moderate positive association (Pearson r = 0.5003, p = 0.0109).
 - The positive association remained statistically significant after removing linear time trends (Pearson r = 0.5238, p = 0.0072).
 - Leave-one-year-out correlations ranged from 0.4219 to 0.5574, with all 25 tests remaining significant at p < 0.05.
+- ## Research Figures
+
+### Figure 1. Annual Rainfall Trend in Ghana (2000–2024)
+
+![Annual rainfall trend](figures/figure1_annual_rainfall_trend.png)
+
+Annual rainfall estimates show year-to-year variability. The estimated linear trend was not statistically significant (p = 0.7692).
+
+### Figure 2. Annual Vegetation Greenness Trend (2000–2024)
+
+![Annual NDVI trend](figures/figure2_annual_ndvi_trend.png)
+
+Satellite-derived annual mean NDVI showed a slight negative trend that was not statistically significant (p = 0.3431).
+
+### Figure 3. Relationship Between Rainfall and Vegetation Greenness
+
+![Rainfall and NDVI relationship](figures/figure3_rainfall_ndvi_relationship.png)
+
+Annual rainfall estimates and annual mean NDVI showed a moderate positive association (Pearson r = 0.5003, p = 0.0109). This association does not establish causation, and NDVI is not a direct measure of forage biomass or quality.
 
 ## Repository Structure
 
