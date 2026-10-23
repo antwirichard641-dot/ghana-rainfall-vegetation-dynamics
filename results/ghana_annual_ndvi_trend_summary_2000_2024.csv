@@ -1,0 +1,2 @@
+study_start_year,study_end_year,n_years,mean_annual_ndvi,slope_per_year,change_per_decade,r_squared,p_value,significant_at_0_05
+2000,2024,25,0.5528882144226978,-0.00057049160324782,-0.0057049160324782,0.03914681161852178,0.3431049829695726,False
